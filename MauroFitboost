@@ -126,6 +126,51 @@
                 <p>Alimento completo para el día a día. Mejora tu energía y bienestar.</p>
             </div>
             <div class="producto">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mí - Nutrición y Bienestar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Mi Historia</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Sobre mí</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="planes.html">Planes de nutrición</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>De la Enfermedad a la Salud Óptima</h2>
+            <p>Hola, soy Mauricio. Antes de descubrir los beneficios de la nutrición celular, sufría de varios problemas de salud, incluyendo hígado graso, acné severo, triglicéridos elevados y un problema de rodilla que requería cirugía. A través de ajustes en mi alimentación y el consumo de productos nutrimentales, mi vida ha cambiado drásticamente.</p>
+
+            <h3>Mi transformación</h3>
+            <p>Gracias a los productos de nutrición celular y a un estilo de vida más saludable, logré superar esos problemas y hoy me siento mejor que nunca. Mi misión es ayudar a otros a hacer lo mismo, guiándolos hacia una vida más saludable y activa.</p>
+
+            <img src="mi-transformacion.jpg" alt="Foto antes y después" style="width:100%; height:auto;">
+            
+            <h3>Mi Misión</h3>
+            <p>Mi objetivo es mejorar la calidad de vida de las personas a través de la educación en nutrición y el uso de productos respaldados científicamente. Quiero que cada persona logre su mejor versión, tanto en salud física como mental.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Blog de Nutrición y Bienestar - Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
+
                 <img src="producto3.jpg" alt="Producto 3">
                 <h3>CR7 Drive</h3>
                 <p>Hidratación avanzada y energía para un rendimiento óptimo en cada deporte.</p>
@@ -136,6 +181,149 @@
     <footer>
         <p>© 2024 Blog de Nutrición y Bienestar - Todos los derechos reservados</p>
         <p>Síguenos en <a href="https://tiktok.com/@Maurowolf" target="_blank">TikTok</a> y <a href="https://tiktok.com/@Xav7er" target="_blank">TikTok</a></p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planes de Nutrición</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Planes de Nutrición Personalizados</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Sobre mí</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="planes.html">Planes de nutrición</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Elige el Plan que Mejor se Adapta a Ti</h2>
+
+            <div class="plan">
+                <h3>Plan Básico</h3>
+                <p>Incluye evaluación nutricional, recomendaciones básicas y un plan de alimentación general.</p>
+                <p>Productos recomendados: Fórmula 1, Omega-3.</p>
+                <p>Precio: $50 al mes</p>
+            </div>
+
+            <div class="plan">
+                <h3>Plan Avanzado</h3>
+                <p>Este plan ofrece un enfoque más detallado para mejorar tu bienestar, con seguimiento continuo.</p>
+                <p>Productos recomendados: Fórmula 1, Omega-3, CR7 Drive.</p>
+                <p>Precio: $80 al mes</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Blog de Nutrición y Bienestar - Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Nutrición y Bienestar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Blog de Nutrición y Bienestar</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Sobre mí</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="planes.html">Planes de nutrición</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Entradas Recientes</h2>
+
+            <article>
+                <h3>Cómo los Omega-3 mejoran tu salud cardiovascular</h3>
+                <p>Los Omega-3 son ácidos grasos esenciales que desempeñan un papel crucial en la salud del corazón...</p>
+                <a href="omega3.html">Leer más</a>
+            </article>
+
+            <article>
+                <h3>El impacto de una buena nutrición en el rendimiento deportivo</h3>
+                <p>Descubre cómo una dieta balanceada puede mejorar tu energía y rendimiento...</p>
+                <a href="rendimiento.html">Leer más</a>
+            </article>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Blog de Nutrición y Bienestar - Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Contáctame</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Sobre mí</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="planes.html">Planes de nutrición</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Escríbeme para más información</h2>
+
+        <form action="https://formspree.io/your-email" method="POST">
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Correo Electrónico:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Mensaje:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Enviar</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>© 2024 Blog de Nutrición y Bienestar - Todos los derechos reservados</p>
     </footer>
 
 </body>
